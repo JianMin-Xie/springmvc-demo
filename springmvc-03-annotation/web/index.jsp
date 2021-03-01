@@ -11,6 +11,9 @@
     <title>$Title$</title>
   </head>
   <body>
-  $END$
+  <form action="/e/t" method="post">
+    <input type="text" name="name">
+    <input type="submit">
+  </form>
   </body>
 </html>
