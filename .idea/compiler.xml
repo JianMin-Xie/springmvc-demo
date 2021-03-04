@@ -7,15 +7,17 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="springmvc-04-json" />
-        <module name="springmvc-02-hello" />
+        <module name="springmvc-06-intercepter" />
         <module name="springmvc-05-ajax" />
+        <module name="springmvc-02-hello" />
+        <module name="springmvc-04-json" />
         <module name="springmvc-01-servlet" />
         <module name="springmvc-03-annotation" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="springmvc-03-hello2" target="1.5" />
+      <module name="springmvc-intercepter" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
