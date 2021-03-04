@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="springmvc-04-json" />
         <module name="springmvc-02-hello" />
+        <module name="springmvc-05-ajax" />
         <module name="springmvc-01-servlet" />
         <module name="springmvc-03-annotation" />
       </profile>
